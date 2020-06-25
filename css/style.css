@@ -2045,3 +2045,26 @@ figure figcaption {
     z-index: 4;
     -webkit-box-shadow: 0 4px 40px -4px rgba(0, 0, 0, 0.4);
     box-shadow: 0 4px 40px -4px rgba(0, 0, 0, 0.4); }
+
+
+
+	.btn1 {
+  font-size: 16px;
+  border-radius: 30px;
+  padding: 10px 30px; }
+  .btn1:hover, .btn1:active, .btn1:focus {
+    outline: none;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important; }
+  .btn1.btn-primary {
+    background: green;
+    border-color: #a2c0be;
+    color: #fff; }
+    .btn1.btn-primary:hover {
+      background: #000;
+      border-color: #000;
+      color: #fff; }
+    .btn1.btn-primary.btn-black--hover:hover {
+      background: #666666;
+      color: #fff; }
+	
