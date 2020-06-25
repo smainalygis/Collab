@@ -6942,7 +6942,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #a2c0be !important;
+  background-color: none !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
