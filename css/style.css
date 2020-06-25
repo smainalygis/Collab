@@ -2057,7 +2057,7 @@ figure figcaption {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn1.btn-primary {
-    background: green;
+    background: grey;
     border-color: #a2c0be;
     color: #fff; }
     .btn1.btn-primary:hover {
